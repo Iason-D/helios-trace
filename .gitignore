@@ -1,0 +1,7 @@
+# Ignore data files
+bronze/
+silver/
+gold/
+
+# Ignore environment files
+.env
